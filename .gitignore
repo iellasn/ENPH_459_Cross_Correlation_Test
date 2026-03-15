@@ -3,3 +3,13 @@
 .vscode/c_cpp_properties.json
 .vscode/launch.json
 .vscode/ipch
+
+# ESP-IDF
+sdkconfig.old
+build/
+
+# Python (cross-correlation scripts later)
+__pycache__/
+*.pyc
+.env
+venv/
