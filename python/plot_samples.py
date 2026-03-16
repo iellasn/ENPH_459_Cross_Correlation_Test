@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # Config
-PORT = '/dev/cu.usbserial-14420'
+PORT = '/dev/cu.usbserial-14320'
 BAUD = 115200
 NUM_SAMPLES = 1024
 
