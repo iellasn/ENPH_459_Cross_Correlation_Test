@@ -3,7 +3,7 @@
 
 #define NUM_SAMPLES     1024
 #define BURST_START     200   // start capturing at sample 200
-#define BURST_LENGTH    80    // ~10 cycles at 2.5 samples/cycle
+#define BURST_LENGTH    20    // ~10 cycles at 2.5 samples/cycle
 #define ADC_CHANNEL     ADC1_CHANNEL_0   // GPIO36 = VP pin
 
 void app_main(void) {
